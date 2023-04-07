@@ -1,5 +1,6 @@
 # Lexical-scope
  Explaning Lexical scope
+ 
  Go through above index.js.
  
  
